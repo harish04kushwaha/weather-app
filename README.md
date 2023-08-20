@@ -1,6 +1,6 @@
 # React Weather App
 
-![GitHub last commit](https://img.shields.io/github/last-commit/sinansarikaya/react-weather-app?style=flat-square)
+<!-- ![GitHub last commit](https://img.shields.io/github/last-commit/sinansarikaya/react-weather-app?style=flat-square) -->
 
 Responsive weather app made using React
 
